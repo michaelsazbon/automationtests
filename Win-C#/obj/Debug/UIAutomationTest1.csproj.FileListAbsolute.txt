@@ -1,0 +1,6 @@
+D:\Projects\WinAutomation2019\UIAutomationTest1\bin\Debug\UIAutomationTest1.exe.config
+D:\Projects\WinAutomation2019\UIAutomationTest1\bin\Debug\UIAutomationTest1.exe
+D:\Projects\WinAutomation2019\UIAutomationTest1\bin\Debug\UIAutomationTest1.pdb
+D:\Projects\WinAutomation2019\UIAutomationTest1\obj\Debug\UIAutomationTest1.exe
+D:\Projects\WinAutomation2019\UIAutomationTest1\obj\Debug\UIAutomationTest1.pdb
+D:\Projects\WinAutomation2019\UIAutomationTest1\obj\Debug\UIAutomationTest1.csprojResolveAssemblyReference.cache
